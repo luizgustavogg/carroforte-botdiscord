@@ -7,8 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "node --watch index.js"
   },
-  "type":"module",
-  
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/luizgustavogg/carroforte-botdiscord.git"
@@ -21,6 +20,8 @@
   },
   "homepage": "https://github.com/luizgustavogg/carroforte-botdiscord#readme",
   "dependencies": {
-    "discord.js": "^14.18.0"
+    "@discordjs/voice": "^0.18.0",
+    "discord.js": "^14.18.0",
+    "dotenv": "^16.5.0"
   }
 }
