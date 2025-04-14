@@ -1,0 +1,26 @@
+{
+  "name": "carroforte-botdiscord",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --watch index.js"
+  },
+  "type":"module",
+  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luizgustavogg/carroforte-botdiscord.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luizgustavogg/carroforte-botdiscord/issues"
+  },
+  "homepage": "https://github.com/luizgustavogg/carroforte-botdiscord#readme",
+  "dependencies": {
+    "discord.js": "^14.18.0"
+  }
+}
